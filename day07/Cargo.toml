@@ -1,0 +1,9 @@
+[package]
+name = "day07"
+version = "0.1.0"
+authors = ["R. Tony Goold <tony@goold.net>"]
+edition = "2018"
+
+[dependencies]
+graphlib = "0.6.2"
+regex = "1"
